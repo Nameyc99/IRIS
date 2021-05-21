@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/IRIS/static/css/main.3bda21d4.chunk.css",
+    "main.js": "/IRIS/static/js/main.d46d05f4.chunk.js",
+    "main.js.map": "/IRIS/static/js/main.d46d05f4.chunk.js.map",
+    "runtime-main.js": "/IRIS/static/js/runtime-main.e6e4c37c.js",
+    "runtime-main.js.map": "/IRIS/static/js/runtime-main.e6e4c37c.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/IRIS/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5472039b.chunk.js": "/IRIS/static/js/2.5472039b.chunk.js",
+    "static/js/2.5472039b.chunk.js.map": "/IRIS/static/js/2.5472039b.chunk.js.map",
+    "index.html": "/IRIS/index.html",
+    "service-worker.js": "/IRIS/service-worker.js",
+    "service-worker.js.map": "/IRIS/service-worker.js.map",
+    "static/css/2.4c97ca4f.chunk.css.map": "/IRIS/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.3bda21d4.chunk.css.map": "/IRIS/static/css/main.3bda21d4.chunk.css.map",
+    "static/js/2.5472039b.chunk.js.LICENSE.txt": "/IRIS/static/js/2.5472039b.chunk.js.LICENSE.txt",
+    "static/media/homepage1.87cbea7a.png": "/IRIS/static/media/homepage1.87cbea7a.png",
+    "static/media/journal.d9a2c7bd.png": "/IRIS/static/media/journal.d9a2c7bd.png",
+    "static/media/logo.54ebdebe.png": "/IRIS/static/media/logo.54ebdebe.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6e4c37c.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5472039b.chunk.js",
+    "static/css/main.3bda21d4.chunk.css",
+    "static/js/main.d46d05f4.chunk.js"
+  ]
+}
